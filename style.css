@@ -1,0 +1,57 @@
+body{
+    font-family: 'Kaushan Script', cursive;  
+    background-color: rgb(255, 177, 9);
+}
+.header_div{
+    background:rgb(53, 7, 71);
+    color: rgb(136, 183, 255);
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background: rgb(34, 129, 133);
+    padding:10px;
+    margin-top: 15px;
+    border: 3px solid rgb(235, 213, 213);
+}
+.main_div label{
+    background: rgb(139, 63, 110);
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px rgb(156, 155, 255);
+}
+#camera , #result{
+    border: 2px solid rgb(153, 0, 255);
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(192, 58, 255);
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px crimson;
+    border: 1px solid;
+}
+.footer_div{
+    margin-bottom: 50px;
+}
+.footer_div h4{
+    background: lightcoral;
+    border-radius: 10px;
+    padding: 5px ;
+    box-shadow: 5px 5px 20px rgb(167, 2, 2);
+}
+.footer_div img{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: whitesmoke;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(73, 255, 1);
+    line-height:3; 
+    text-align: center;
+}
